@@ -13,7 +13,7 @@
     "body-parser": "^1.17.2",
     "count-array-values": "^1.2.1",
     "express": "^4.15.4",
-    "mongoose": "^4.11.10",
+    "mongoose": "^5.13.15",
     "request": "^2.88.0"
   },
   "devDependencies": {
